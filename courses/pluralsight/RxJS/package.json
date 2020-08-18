@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rxjs": "^6.5.5"
+    "rxjs": "^6.6.2"
   }
 }
